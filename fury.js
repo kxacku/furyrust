@@ -4,7 +4,7 @@ curcontent["Oplata"] = {
 	xhead: 'Способы пополнения баланса',
 	xcon: '<div class="oplata_cont"><a class="container-oplata" id="qiwi-inp-other">\
 	<img alt="" style="filter: grayscale(100%);" src="https://i.imgur.com/kb8M7vg.png" class="icon-user-oplata"><div class="textContainer-oplata"><span class="name-user">Пополнить баланс</span><span class="category-user">Стандартный способ</span></div><a class="container-oplata" href="https://fury-rust.diaka.ua/donate" target="_blank">\
-	<img alt="" style="filter: grayscale(100%);" src="https://i.imgur.com/kb8M7vg.png" class="icon-user-oplata"><div class="textContainer-oplata"><span class="name-user">Дополнительный вариант</span><span class="category-user">Если стандартный не работает</span></div></div></div>'
+	<img alt="" style="filter: grayscale(100%);" src="https://i.imgur.com/kb8M7vg.png" class="icon-user-oplata"><div class="textContainer-oplata"><span class="name-user">Дополнительный вариант (Европа)</span><span class="category-user">Если стандартный не работает</span></div></div></div>'
 };
 
 function Open(el, usefade = true, zind = false) {
